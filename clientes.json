@@ -1,0 +1,23 @@
+[
+    {
+        "nome": "Marcelo",
+        "peso": "100",
+        "altura": "1.86",
+        "gordura": "30",
+        "imc": "19.82"
+    },
+    {
+        "nome": "Guilherme",
+        "peso": "50",
+        "altura": "1.54",
+        "gordura": "14",
+        "imc": "19.82"
+    },
+    {
+        "nome": "Rafaela",
+        "peso": "80",
+        "altura": "1.86",
+        "gordura": "30",
+        "imc": "19.82"
+    }
+]
